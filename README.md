@@ -37,4 +37,4 @@ npm run start
 
 ## Support
 
-Si encuentra útil este proyecto o le gustaría apoyar mi trabajo, puede ⭐ este repositorio
+Si encuentra útil este proyecto o le gustaría apoyar mi trabajo, puede ⭐ este repositorio.
